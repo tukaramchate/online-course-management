@@ -1,0 +1,23 @@
+Designing online course management including following models
+ 
+Courses
+
+Students
+ 
+- Consider Email field, Date field, File Field and apply necessary validations
+ 
+- One student can take multiple courses
+
+- One course can be take by multiple students
+ 
+Tasks:
+
+1. Students can login and check their enrolled course
+
+2. New students can be enrolled
+
+3. Student can add / remove his/her courses
+
+4. Based on course, get all students enrolled (This can be without login)
+5. Error handling and logs to be maintained
+ 
